@@ -1,0 +1,21 @@
+.navbar {
+    padding: 1rem;
+    background: #F5F6F7;
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-image {
+    height: 70px;
+    margin: 0;
+}
+
+li a:hover:not(.active) { background: #DDD; }
+
+li a.active { 
+    color: white !important; 
+    background: #adadad;
+}
