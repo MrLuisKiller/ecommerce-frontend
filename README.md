@@ -1,8 +1,8 @@
-# React + Vite
+# Ecommerce Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Proyecto 5 | Ecommerce
 
-Currently, two official plugins are available:
+Se usa la tecnologia [jwt-Decode](https://github.com/auth0/jwt-decode), la de [Paypal](https://github.com/paypal/react-paypal-js) y la de [Sweet Alert 2](https://sweetalert2.github.io/#download)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[pagina](https://ecommerce-mlk.netlify.app/)
+[Api](https://ecommerce-backend-lkki.onrender.com)
